@@ -1,0 +1,19 @@
+/bin/
+
+# ULTRON private memory
+ultron-memory.txt
+ultron-memory-backup.txt
+
+# API keys and sensitive files
+.env
+.env.*
+*.key
+secrets.properties
+
+# Java compiled files
+*.class
+bin/
+target/
+
+# Eclipse workspace files
+.metadata/
