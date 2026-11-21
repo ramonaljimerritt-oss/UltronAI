@@ -54,7 +54,20 @@ User: What is Java programming?
 ULTRON: Java is a programming language used
 to develop applications and software.
 
+
+
 ## Screenshots
+
+### ULTRON Answering a Java Programming Question
+
+The screenshot below demonstrates ULTRON
+successfully answering a programming question
+through the Eclipse Console.
+
+![ULTRON Java Programming Response](screenshots/ultron-java-response.png)
+
+## Screenshots
+
 
 Screenshots demonstrating ULTRON's operation
 will be added to this section before submission.
