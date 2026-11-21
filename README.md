@@ -66,7 +66,14 @@ through the Eclipse Console.
 
 ![ULTRON Java Programming Response](screenshots/ultron-java-response.png)
 
+### Permanent Memory Demonstration
+
+ULTRON remembers information from previous conversations, even after the application is restarted.
+
+![ULTRON Permanent Memory Demonstration](screenshots/ultron-permanent-memory.png)
+
 ## Screenshots
+
 
 
 Screenshots demonstrating ULTRON's operation
